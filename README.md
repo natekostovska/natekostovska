@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natekostovska
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning test automation (Java, Selenium web driver, TestNG, Rest Assured)
+- 🌱 I’m currently learning test automation (Java, Selenium web driver, TestNG, Rest Assured API Testing)
 - 💞️ I’m looking to collaborate on QA Manual/Automation projects
 - 📫 How to reach me nate_kostovska_4@outlook.com
 
