@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natekostovska
 - 👀 I’m interested in software testing
-- 🌱 I’m currently learning Rest Assured API Testing, Appium for iOS and Android
+- 🌱 I’m currently learning Rest Assured API Testing, JMeter (Performance Testing), Appium for iOS and Android
 - 💞️ I’m looking to collaborate on QA Manual/Automation projects
 - 📫 How to reach me nate_kostovska_4@outlook.com
 
