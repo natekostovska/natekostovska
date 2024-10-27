@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @natekostovska
-- 👀 I’m interested in software testing
-- 💞️ I’m looking to collaborate on QA Manual/Automation projects
+- 👀 I’m working as a Quality Assurance Manual/Automation Tester
 - 📫 How to reach me nate_kostovska_4@outlook.com
 
 <!---
