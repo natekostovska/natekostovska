@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @natekostovska
-- 👀 I’m working as a Automation Quality Engineer
+- 👀 I’m working as a Automation Quality Engineer at Avenga => http://avenga.com/
+- QA Academy Mentor at Avenga Academy => https://avengaacademy.com/academy-software-testing/?lang=en
 - 📫 How to reach me nate_kostovska_4@outlook.com
 
 <!---
