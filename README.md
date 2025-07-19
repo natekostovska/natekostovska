@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @natekostovska
-- 👀 I’m working as a QA Engineer (Manual/Automation)
+- 👀 I’m working as a Automation Quality Engineer
 - 📫 How to reach me nate_kostovska_4@outlook.com
 
 <!---
